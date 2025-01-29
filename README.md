@@ -1,2 +1,2 @@
 # intern-day1
-using tags in html
+using tags
