@@ -1,2 +1,2 @@
 # intern-day1
-learning mern stack
+using tags in html
